@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/A-Vause/newproject.git
 git push -u origin main
 
+# newproject
